@@ -1,5 +1,4 @@
 # Deploying BoardGame on Kubernetes through a CI/CD Pipeline
-*[Check out the complete descriptive blog about the project!!](https://drive.google.com/file/d/18o04cllhF501o2CJJnG9QT0S1edHVaue/view?usp=sharing)*
 
 
 ![Alt text](https://github.com/anandkumarrai02/BoardGame-Kube-Automator/blob/main/Deployment-Phases/Img/Screenshot%202024-08-04%20021642.png)
